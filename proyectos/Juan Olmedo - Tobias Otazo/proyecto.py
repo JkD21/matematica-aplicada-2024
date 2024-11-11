@@ -25,11 +25,11 @@ def clean_text(text):
     
     text = re.sub(r'\s+', ' ', text).strip()     # Remover espacios extra
 
-    text = re.sub(r"@", "" , text)         # removal of @
+    text = re.sub(r"@", "" , text)         # Eliminar @
     
-    text =  re.sub(r"http\S+", "", text)   # removal of URLs
+    text =  re.sub(r"http\S+", "", text)   # Eliminar URLs
     
-    text = re.sub(r"#", "", text)          # hashtag processing
+    text = re.sub(r"#", "", text)          # Eliminar hashtags
     
     return text
 
