@@ -1,9 +1,8 @@
 Coloca aquí tus proyectos.
 
 # Matemática Aplicada 2024 
-# Facultad Politécnica de la Universidad Nacional de Asunción.
 
-**Implementar un algoritmo de análisis de sentimiento difuso a partir de tweets.**
+**- Implementar un algoritmo de análisis de sentimiento difuso a partir de tweets.**
 
 **Integrantes del grupo:**
 
